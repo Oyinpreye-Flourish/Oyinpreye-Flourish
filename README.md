@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/angel_preye" target="blank"><img src="https://img.shields.io/twitter/follow/angel_preye?logo=twitter&style=for-the-badge" alt="angel_preye" /></a> </p>
 
-- I utilize SQL, Microsoft Excel, Python, Power BI and Tableau to drive informed business decisions through insightful recommendations, backed by exceptional problem-solving , comunication and collaboration abilities.
+- I utilize SQL, Microsoft Excel, Python, Power BI and Tableau to drive informed business decisions through insightful recommendations, backed by exceptional problem-solving , communication and collaboration abilities.
 - I am interested in Data and Business Analytics.
 - I am looking to collaborate on projects that would help me improve my skills and experience.
 - 📫 How to reach me **preyefiyai@gmail.com**
